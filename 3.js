@@ -1,0 +1,1 @@
+mainString="My name is kumar,and my frind's name is Dhamu"
